@@ -65,14 +65,14 @@
 ### ![](charts/bubble_2010.png)
 ### We can see that there is very clear positive linear relationship between power index and adjusted net national income per capita (annual % growth).
 ### As the annual % growth increases, so does the power distance index.
-### Thus, we can say that the data suggests that as a country's annual % growth increases, so does their power index. 
+### Thus, the data suggests that as a country's annual % growth increases, so does their power index. 
 
 ## How do these three indicators relate to each other?
 
 ### Using bubble charts:
 ### The size of the bubble represents the ratio of masculinity to feminitiy values in that country. 
 ### However, the bubble size doesn't appear to have any trend, or correlation to the other two variables.
-### Thus, we can say that this variable does not have a significant impact or relationship to a country's power index or annual % growth. 
+### Thus, the data suggests that this variable does not have a significant impact or relationship to a country's power index or annual % growth. 
 
 ### As time goes on, the trend becomes less defined:
 ### Here is a bubble chart for 2018:

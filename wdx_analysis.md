@@ -88,7 +88,7 @@
 ### ![](charts/line_growth.png)
 
 ### We can see that for three of the countries (United States, Japan, and Germany) the fluctuations are in a relative level, that being in a 0-4% range.  
-### What is interesting is China, whose growth rate is fluctuating at a level that is way above these other three other countries.
+### What is interesting is China, whose growth rate is fluctuating at a level that is way above these other three countries.
 ### What's more, from 2017 - 2018 it shows China's growth rate skyrocketing. 
 ### Meanwhile for the other three, Japan and Germany's growth rates are actually decreasing. The United States does show an increasing growth rate, but it's a very modest incline. 
 ### Thus, we need to consider China's huge growth rate as compared to the rest of the countries when we think about the other indicators. 

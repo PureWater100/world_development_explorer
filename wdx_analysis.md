@@ -1,7 +1,5 @@
 # Individual Project Part A
 
----------------------------------------------------------------------------------------------------------
-
 # Introduction:
 
 ## What is it that you are investigating/exploring/analyzing?
@@ -56,8 +54,6 @@
 ### Bubble: to explore relations between different topics/indicators
 ### Line: to look at the historic trend to spot any changes
 ### Bar: to compare different countries and show similarities/differences and their implcations
-
----------------------------------------------------------------------------------------------------------
 
 # Analysis
 

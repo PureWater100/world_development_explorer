@@ -30,7 +30,7 @@
 ## Why is it important to you and/or to others?
 
 ### This study will let us find out how a country's culture impacts their economic success. 
-### The position of this country of the world stage could very well be linked to their societal norms. 
+### The position of this country on the world stage could very well be linked to their societal norms. 
 ### This relationship between culture and economic success also has a direct impact on individual citizens. 
 
 ## What questions do you have in mind and would like to answer?

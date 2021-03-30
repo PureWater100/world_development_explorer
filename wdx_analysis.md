@@ -8,17 +8,16 @@
 ### To investigate this, I am using three indicators:
 
 ### Masculinity vs. femininity (MAS)
-### This measures the preference of that country's society for masculine traits vs. feminine traits. The higher it is, 
-### This can also refer to the distribution of roles between men and women
-### The higher this value, the more masculine the society is 
+### This measures the preference of that country's society for masculine traits vs. feminine traits.  
+### This can also refer to the distribution of roles between men and women.
+### The higher this value, the more masculine the society is. 
 
 ### Power Distance index (PDI)
 ### This index measures the degree to which the less powerful members of society accept and expect that power is distributed unequally. 
 ### The higher the index, the higher this degree. 
 
 ### Adjusted net national income per capita (annual % growth)
-### The country's adjusted net natioanl income per citizen is taken as a percentage of growth per year.
-### Why is it important to you and/or to others?
+### The country's adjusted net national income per citizen is taken as a percentage of growth per year.
 
 ### Furthermore, I am comparing these indicators across four of the world's richest countries:
 ### - United States
@@ -30,7 +29,7 @@
 
 ## Why is it important to you and/or to others?
 
-### This study will let us find out how a countrie's culture impacts their economic success. 
+### This study will let us find out how a country's culture impacts their economic success. 
 ### The position of this country of the world stage could very well be linked to their societal norms. 
 ### This relationship between culture and economic success also has a direct impact on individual citizens. 
 

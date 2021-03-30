@@ -79,7 +79,7 @@
 ### Here is a bubble chart for 2018:
 ### ![](bubble_2018.png)
 ### However, we are still able to identify a linear trend, even though it is not as apparent as in 2010. 
----------------------------------------------------------------------------------------------------------
+
 ## Using Line Charts:
 
 ## - Are there any historic trends?
@@ -93,7 +93,7 @@
 ### What's more, from 2017 - 2018 it shows China's growth rate skyrocketing. 
 ### Meanwhile for the other three, Japan and Germany's growth rates are actually decreasing. The United States does show an increasing growth rate, but it's a very modest incline. 
 ### Thus, we need to consider China's huge growth rate as compared to the rest of the countries when we think about the other indicators. 
----------------------------------------------------------------------------------------------------------
+
 ## Using Bar Charts:
 
 ## - Compare and contrast the indicators for different countries. What are the implications?

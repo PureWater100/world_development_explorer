@@ -1,1 +1,1 @@
-# world_development_explorer
+# Repository for the World Development Project

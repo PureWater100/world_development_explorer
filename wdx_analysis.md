@@ -77,7 +77,7 @@
 
 ### As time goes on, the trend becomes less defined:
 ### Here is a bubble chart for 2018:
-### ![](bubble_2018.png)
+### ![](charts/bubble_2018.png)
 ### However, we are still able to identify a linear trend, even though it is not as apparent as in 2010. 
 
 ## Using Line Charts:
@@ -86,7 +86,7 @@
 
 ### - The power index and masculinity vs. femninity have both remained constant values from 2010-2018
 ### - However, the annual % growth has dynamic changes:
-### ![](line_%growth.png)
+### ![](charts/line_%growth.png)
 
 ### We can see that for three of the countries (United States, Japan, and Germany) the fluctuations are in a relative level, that being in a 0-4% range.  
 ### What is interesting is China, whose growth rate is fluctuating at a level that is way above these other three other countries.
@@ -99,13 +99,13 @@
 ## - Compare and contrast the indicators for different countries. What are the implications?
 
 ### Here is a bar chart of the power distance index and MAS for these four countries. There is no change from 2010-2018:
-### ![](bar_PDI.png)
-### ![](bar_MAS.png)
+### ![](charts/bar_PDI.png)
+### ![](charts/bar_MAS.png)
 
 ### Here is the bar chart of the annual % growth in 2010:
-### ![](bar_growth_2010.png)
+### ![](charts/bar_growth_2010.png)
 ### Compare this to 2018:
-### ![](bar_growth_2018.png)
+### ![](charts/bar_growth_2018.png)
 ### We see that in 2010, China's growth rate was significantly higher than the three other countries. 
 ### As of 2018, we can see that China's growth rate has risen even more, and that this gap between the other countries has gotten even bigger. 
 

@@ -110,5 +110,5 @@
 
 ### Things To Think About:
 ### We must consider that China's larger growth rate is due to various other causes at play, of which may or may not be correlated with the MAS or PDI. 
-### Regarding the PDI, there appears to be a small linear trend that can be found between the PDI and growth rate. 
+### Regarding the PDI, there appears to be a small positive linear trend that can be found between the PDI and growth rate. 
 ### However, the MAS does not appear to have any significant correlation with either the growth rate or PDI. 

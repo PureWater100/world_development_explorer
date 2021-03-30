@@ -52,7 +52,7 @@
 
 ### Bubble: to explore relations between different topics/indicators
 ### Line: to look at the historic trend to spot any changes
-### Bar: to compare different countries and show similarities/differences and their implcations
+### Bar: to compare different countries and show similarities/differences and their implications
 
 # Analysis
 
@@ -63,7 +63,7 @@
 ### Yes, there is a relationship. 
 ### Here is a bubble chart for 2010:
 ### ![](charts/bubble_2010.png)
-### We can see that there is very clear positive linear relationship between power index and adjusted net national income per capita (annual % growth).
+### We can see that there is very clear positive linear relationship between the power distance index and the adjusted net national income per capita (annual % growth).
 ### As the annual % growth increases, so does the power distance index.
 ### Thus, the data suggests that as a country's annual % growth increases, so does their power index. 
 
@@ -72,12 +72,12 @@
 ### Using bubble charts:
 ### The size of the bubble represents the ratio of masculinity to feminitiy values in that country. 
 ### However, the bubble size doesn't appear to have any trend, or correlation to the other two variables.
-### Thus, the data suggests that this variable does not have a significant impact or relationship to a country's power index or annual % growth. 
+### Thus, the data suggests that this variable does not have a significant impact or relationship to a country's power distance index or annual % growth. 
 
 ### As time goes on, the trend becomes less defined:
 ### Here is a bubble chart for 2018:
 ### ![](charts/bubble_2018.png)
-### However, we are still able to identify a linear trend, even though it is not as apparent as in 2010. 
+### However, we are still able to identify a slight positive linear trend, even though it is not as apparent as in 2010. 
 
 ## Using Line Charts:
 
@@ -87,7 +87,7 @@
 ### - However, the annual % growth has dynamic changes:
 ### ![](charts/line_growth.png)
 
-### We can see that for three of the countries (United States, Japan, and Germany) the fluctuations are in a relative level, that being in a 0-4% range.  
+### We can see that for three of the countries (United States, Japan, and Germany) the fluctuations are within a relative level, that being in a 0-4% range.  
 ### What is interesting is China, whose growth rate is fluctuating at a level that is way above these other three countries.
 ### What's more, from 2017 - 2018 it shows China's growth rate skyrocketing. 
 ### Meanwhile for the other three, Japan and Germany's growth rates are actually decreasing. The United States does show an increasing growth rate, but it's a very modest incline. 

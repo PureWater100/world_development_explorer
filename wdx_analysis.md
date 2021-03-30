@@ -86,7 +86,7 @@
 
 ### - The power index and masculinity vs. femninity have both remained constant values from 2010-2018
 ### - However, the annual % growth has dynamic changes:
-### ![](charts/line_%growth.png)
+### ![](charts/line_growth.png)
 
 ### We can see that for three of the countries (United States, Japan, and Germany) the fluctuations are in a relative level, that being in a 0-4% range.  
 ### What is interesting is China, whose growth rate is fluctuating at a level that is way above these other three other countries.

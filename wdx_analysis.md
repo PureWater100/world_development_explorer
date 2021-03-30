@@ -63,7 +63,7 @@
 
 ### Yes, there is a relationship. 
 ### Here is a bubble chart for 2010:
-### ![](bubble_2010.png)
+### ![](charts/bubble_2010.png)
 ### We can see that there is very clear positive linear relationship between power index and adjusted net national income per capita (annual % growth).
 ### As the annual % growth increases, so does the power distance index.
 ### Thus, we can say that the data suggests that as a country's annual % growth increases, so does their power index. 

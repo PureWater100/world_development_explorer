@@ -106,7 +106,7 @@
 ### Compare this to 2018:
 ### ![](charts/bar_growth_2018.png)
 ### We see that in 2010, China's growth rate was significantly higher than the three other countries. 
-### As of 2018, we can see that China's growth rate has risen even more, and that this gap between the other countries has gotten even bigger. 
+### As of 2018, we can see that the gap between China's growth rate with that of the other countries has gotten even bigger. 
 
 ### Things To Think About:
 ### We must consider that China's larger growth rate is due to various other causes at play, of which may or may not be correlated with the MAS or PDI. 

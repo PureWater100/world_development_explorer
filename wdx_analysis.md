@@ -1,6 +1,6 @@
 # Cultural Correlations In The World's Top Economies 
 
-## The purpose of this paper is to explore the possibility of correlations between societal culure and the economies of the four most economically powerful countries in the world, during the time frame of 2010 - 2018. 
+## The purpose of this paper is to explore the possibility of correlations between societal culture and the economies of the four most economically powerful countries in the world, during the time frame of 2010 - 2018. 
 ## These countries are the United States, China, Germany, and Japan. 
 ## The focus of this analysis is to compare these four countries in relation to one another. 
 

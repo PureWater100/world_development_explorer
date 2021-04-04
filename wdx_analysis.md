@@ -4,7 +4,7 @@
 ## These countries are the United States, China, Germany, and Japan. 
 ## The focus of this analysis is to compare these four countries in relation to one another. 
 
-## This study is significant because it will give insight into how a country's culture can impact their economic success.
+## This study is significant because it will give insight into how an economically prominent country's culture can impact their economic success.
 ## Furthermore, a country's economic success is critical, as it is an important factor that decides their position on the world stage. 
 ## Besides these political connotations, this relationship between culture and economic success could potentially establish a direct linkage between individual citizens' ways of life and standards of living. 
 

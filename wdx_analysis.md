@@ -1,8 +1,8 @@
 # TITLE 
 
-## The purpose of this paper is to explore how societal culure affects the economies of the four most economically powerful countries in the world, during the time frame of 2010 - 2018. 
+## The purpose of this paper is to explore the possibility of correlations between societal culure and the economies of the four most economically powerful countries in the world, during the time frame of 2010 - 2018. 
 ## These countries are the United States, China, Germany, and Japan. 
-## The focus of this analysis is to compare these four countries in relation to one another.  
+## The focus of this analysis is to compare these four countries in relation to one another. 
 
 ## This study is significant because it will give insight into how a country's culture can impact their economic success.
 ## Furthermore, a country's economic success is critical, as it is an important factor that decides their position on the world stage. 
@@ -38,8 +38,7 @@
 
 ### From various analyses such as bubble, line, and bar charts the conclusion is that in regards to the PDI, there appears to be a small positive linear trend that can be found between the PDI and growth rate. 
 ### However, the MAS does not appear to have any significant correlation with either the growth rate or PDI.
-### Lastly, we must consider that China's larger growth rate is due to various other causes at play, of which may not be correlated with the MAS or PDI. 
-other causes?
+### Lastly, we must be aware of the fact that China has a huge growth rate relative to these three other countries. Thus, we must keep this mind when we compare these four countries together. 
 
 ## Analysis
 
@@ -86,3 +85,4 @@ other causes?
 ## References 
 ### https://www.usnews.com/news/best-countries/power-rankings
 ### https://www.investopedia.com/insights/worlds-top-economies/
+### https://www.imf.org/EXTERNAL/PUBS/FT/ISSUES8/INDEX.HTM

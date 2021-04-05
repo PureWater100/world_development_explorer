@@ -1,0 +1,37 @@
+,Year,NY.ADJ.NNTY.PC.KD.ZG,Country Code,Country Name,Region,Income Group,Lending Type,MAS,PDI
+0,2010,8.8834192444,CHN,China,East Asia & Pacific,Upper middle income,IBRD,66,80
+1,2011,4.6513539699,CHN,China,East Asia & Pacific,Upper middle income,IBRD,66,80
+2,2012,8.9615080769,CHN,China,East Asia & Pacific,Upper middle income,IBRD,66,80
+3,2013,7.2361547698,CHN,China,East Asia & Pacific,Upper middle income,IBRD,66,80
+4,2014,9.2073901145,CHN,China,East Asia & Pacific,Upper middle income,IBRD,66,80
+5,2015,8.1710917077,CHN,China,East Asia & Pacific,Upper middle income,IBRD,66,80
+6,2016,7.1934647158,CHN,China,East Asia & Pacific,Upper middle income,IBRD,66,80
+7,2017,5.2744087528,CHN,China,East Asia & Pacific,Upper middle income,IBRD,66,80
+8,2018,9.2423861591,CHN,China,East Asia & Pacific,Upper middle income,IBRD,66,80
+9,2010,3.878625079,DEU,Germany,Europe & Central Asia,High income,Not classified,66,35
+10,2011,5.8456070312,DEU,Germany,Europe & Central Asia,High income,Not classified,66,35
+11,2012,-0.3664450365,DEU,Germany,Europe & Central Asia,High income,Not classified,66,35
+12,2013,0.2874472329,DEU,Germany,Europe & Central Asia,High income,Not classified,66,35
+13,2014,2.1124752783,DEU,Germany,Europe & Central Asia,High income,Not classified,66,35
+14,2015,2.0941147629,DEU,Germany,Europe & Central Asia,High income,Not classified,66,35
+15,2016,2.1832260246,DEU,Germany,Europe & Central Asia,High income,Not classified,66,35
+16,2017,1.4031122125,DEU,Germany,Europe & Central Asia,High income,Not classified,66,35
+17,2018,0.5539631964,DEU,Germany,Europe & Central Asia,High income,Not classified,66,35
+18,2010,4.9638809168,JPN,Japan,East Asia & Pacific,High income,Not classified,95,54
+19,2011,-0.7050166453000001,JPN,Japan,East Asia & Pacific,High income,Not classified,95,54
+20,2012,1.902220424,JPN,Japan,East Asia & Pacific,High income,Not classified,95,54
+21,2013,2.8875406231,JPN,Japan,East Asia & Pacific,High income,Not classified,95,54
+22,2014,0.6652797605,JPN,Japan,East Asia & Pacific,High income,Not classified,95,54
+23,2015,3.8998265075000003,JPN,Japan,East Asia & Pacific,High income,Not classified,95,54
+24,2016,1.2683629780999999,JPN,Japan,East Asia & Pacific,High income,Not classified,95,54
+25,2017,1.9856348148,JPN,Japan,East Asia & Pacific,High income,Not classified,95,54
+26,2018,0.1401223313,JPN,Japan,East Asia & Pacific,High income,Not classified,95,54
+27,2010,3.4901775938,USA,United States,North America,High income,Not classified,62,40
+28,2011,1.5158388754,USA,United States,North America,High income,Not classified,62,40
+29,2012,3.094125633,USA,United States,North America,High income,Not classified,62,40
+30,2013,0.6425606706,USA,United States,North America,High income,Not classified,62,40
+31,2014,2.7673428584,USA,United States,North America,High income,Not classified,62,40
+32,2015,2.804167767,USA,United States,North America,High income,Not classified,62,40
+33,2016,0.14002465890000002,USA,United States,North America,High income,Not classified,62,40
+34,2017,1.5059891494,USA,United States,North America,High income,Not classified,62,40
+35,2018,1.8736399916000002,USA,United States,North America,High income,Not classified,62,40

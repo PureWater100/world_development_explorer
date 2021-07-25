@@ -1,14 +1,14 @@
 # Cultural Correlations In The World's Top Economies 
 
-## The purpose of this paper is to explore the possibility of correlations between societal culture and the economies of the four most economically powerful countries in the world, during the time frame of 2010 - 2018. 
-## These countries are the United States, China, Germany, and Japan. 
-## The focus of this analysis is to compare these four countries in relation to one another. 
+### The purpose of this paper is to explore the possibility of correlations between societal culture and the economies of the four most economically powerful countries in the world, during the time frame of 2010 - 2018. 
+### These countries are the United States, China, Germany, and Japan. 
+### The focus of this analysis is to compare these four countries in relation to one another. 
 
-## This study is significant because it will give insight into how an economically prominent country's culture can impact their economic success.
-## A country's economic success is critical, as it is an important factor that decides their position on the world stage. 
-## Besides these political connotations, this relationship between culture and economic success could potentially establish a direct linkage between individual citizens' ways of life and standards of living. 
+### This study is significant because it will give insight into how an economically prominent country's culture can impact their economic success.
+### A country's economic success is critical, as it is an important factor that decides their position on the world stage. 
+### Besides these political connotations, this relationship between culture and economic success could potentially establish a direct linkage between individual citizens' ways of life and standards of living. 
 
-## In this study, I am using three indicators to represent the societal culture:
+### In this study, I am using three indicators to represent the societal culture:
 
 ### Masculinity vs. femininity (MAS)
 ### This measures the preference of that country's society for masculine traits vs. feminine traits. The higher it is, 
@@ -23,12 +23,12 @@
 ### The country's adjusted net natioanl income per citizen is taken as a percentage of growth per year.
 ### Why is it important to you and/or to others?
 
-## This begs the question, is there a relationship between the three indicators of these four countries? If so, then what kind of relationship is there?
-## Additionally, how do these three indicators relate to each other?
-## Are there any historic trends?
-## Through comparing and constrasting the indicators for different countries, what are the implications?
+### This begs the question, is there a relationship between the three indicators of these four countries? If so, then what kind of relationship is there?
+### Additionally, how do these three indicators relate to each other?
+### Are there any historic trends?
+### Through comparing and constrasting the indicators for different countries, what are the implications?
 
-## In order to answer these questions, I will use three charts:
+### In order to answer these questions, I will use three charts:
 
 ### Bubble: to explore relations between different topics/indicators
 ### Line: to look at the historic trend to spot any changes

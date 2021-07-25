@@ -11,9 +11,9 @@
 ### In this study, I am using three indicators to represent the societal culture:
 
 ### Masculinity vs. femininity (MAS)
-### This measures the preference of that country's society for masculine traits vs. feminine traits. The higher it is, 
-### This can also refer to the distribution of roles between men and women
-### The higher this value, the more masculine the society is 
+### This measures the preference of that country's society for masculine traits vs. feminine traits. 
+### This can also refer to the distribution of roles between men and women.
+### The higher this value, the more masculine the society is. 
 
 ### Power Distance index (PDI)
 ### This index measures the degree to which the less powerful members of society accept and expect that power is distributed unequally. 
@@ -21,9 +21,9 @@
 
 ### Adjusted net national income per capita (annual % growth)
 ### The country's adjusted net natioanl income per citizen is taken as a percentage of growth per year.
-### Why is it important to you and/or to others?
 
-### This begs the question, is there a relationship between the three indicators of these four countries? If so, then what kind of relationship is there?
+### Some questions to consider: 
+### Is there a relationship between the three indicators of these four countries? If so, then what kind of relationship is there?
 ### Additionally, how do these three indicators relate to each other?
 ### Are there any historic trends?
 ### Through comparing and constrasting the indicators for different countries, what are the implications?
@@ -38,7 +38,7 @@
 
 ### From various analyses such as bubble, line, and bar charts the conclusion is that in regards to the PDI, there appears to be a small positive linear trend that can be found between the PDI and growth rate. 
 ### However, the MAS does not appear to have any significant correlation with either the growth rate or PDI.
-### Lastly, we must be aware of the fact that China has a huge growth rate relative to these three other countries. Thus, we must keep this mind when we compare these four countries together. 
+### Lastly, we must be aware of the fact that China has a huge growth rate relative to these three other countries. Thus, we must keep this in mind when we compare these four countries together. 
 
 ## Analysis
 

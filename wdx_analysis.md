@@ -20,7 +20,7 @@
 ### The higher the index, the higher this degree. 
 
 ### Adjusted net national income per capita (annual % growth)
-### The country's adjusted net natioanl income per citizen is taken as a percentage of growth per year.
+### The country's adjusted net national income per citizen is taken as a percentage of growth per year.
 
 ### Some questions to consider: 
 ### Is there a relationship between the three indicators of these four countries? If so, then what kind of relationship is there?
